@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="BIOSTAT_color.png" width="250" alt="Research Group Logo">
-</p>
+<img src="BIOSTAT_color.png" width="150" align="right" alt="Research Group Logo">
 
 # Welcome to the Github page of BIOSTAT 
 
