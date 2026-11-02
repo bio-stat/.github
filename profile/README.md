@@ -3,7 +3,7 @@
 <img src="BIOSTAT_color_cropped.png" width="250" align="left" alt="Research Group Logo">
 
 <p align="justify">
-We are a research group with a broad interest in statistical methods and their applications in bioscience engineering. Special interest goes to problems of sample and experimental design within spatio-temporal applications such as species distribution and climate extremes modelling.
+We are a research group at Ghent University with a broad interest in statistical methods and their applications in bioscience engineering. Special interest goes to problems of sample and experimental design within spatio-temporal applications such as species distribution and climate extremes modelling.
 </p>
 
 <p>
