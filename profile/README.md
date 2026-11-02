@@ -1,6 +1,6 @@
 # Welcome to the Github page of BIOSTAT 
 
-![BIOSTAT](./biostat_color.png)
+![BIOSTAT](./profile/biostat_color.png)
 
 We are a research group with a broad interest in statistical methods and their applications in bioscience engineering. Special interest goes to problems of 
 sample and experimental design within spatio-temporal applications such as species distribution and climate extremes modelling.
