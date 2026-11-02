@@ -10,8 +10,6 @@ We are a research group with a broad interest in statistical methods and their a
 For more information about our group, visit <a href="https://www.biostat.ugent.be">www.biostat.ugent.be</a>.
 </p>
 
-<div style="clear: both;"></div>
-
 ## Research and Software
 
 Our repositories contain code, algorithms and
@@ -21,4 +19,4 @@ research.
 ## Contact
 
 For questions or collaborations, please contact
-prof. dr. Stijn Luca at firstname.secondname@ugent.be 
+prof. dr. [Stijn Luca](mailto:stijn.luca@ugent.be)
